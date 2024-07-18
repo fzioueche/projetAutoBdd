@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class deconnectionPageObject {
+	// test git
 // Declaration des selecteurs:
 	public final static String MENU_UTILISATEUR_XPATH = "//*[@id=\"app\"]/div[1]/div[1]/header/div[1]/div[2]/ul/li/span/i";
 	public final static String LOGOUT_XPATH = "//*[@id=\"app\"]/div[1]/div[1]/header/div[1]/div[2]/ul/li/ul/li[4]/a";
